@@ -1,4 +1,4 @@
-import styles from './Heading.module.css';
+import styles from './styles.module.css';
 
 // Definindo um tipo para a props
 type HeadingProps = {
